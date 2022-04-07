@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ManoriV
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning java/python
